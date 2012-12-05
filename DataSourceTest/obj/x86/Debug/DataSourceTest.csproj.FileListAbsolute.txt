@@ -1,0 +1,7 @@
+C:\Users\Loft\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1\DataSourceTest\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Loft\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1\DataSourceTest\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Loft\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1\DataSourceTest\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Loft\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1\DataSourceTest\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Loft\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1\DataSourceTest\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Loft\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1\DataSourceTest\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Loft\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1\DataSourceTest\obj\x86\Debug\DataSourceTest.csproj.GenerateResource.Cache
